@@ -10,15 +10,22 @@
 }
 
 h1 {
-  font-family: "UnifrakturMaguntia", cursive;
-  font-weight: 400;
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
   font-style: normal;
+	text-align: center;
+
+}
+  
 	
 }
 h2 {
-  font-family: "Goudy Bookletter 1911", serif;
+  font-family: "Playfair Display", serif;
   font-weight: 200;
   font-style: normal;
+  text-align: center;
+
 }
 
 h3 {
