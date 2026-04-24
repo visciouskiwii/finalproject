@@ -19,7 +19,6 @@ h1 {
 }
   
 	
-}
 h2 {
   font-family: "Playfair Display", serif;
   font-weight: 200;
@@ -29,3 +28,15 @@ h2 {
 }
 
 h3 {
+	font-family: "Playfair Display", serif;
+  font-weight: 200;
+  font-style: normal;
+  text-align: center;
+}
+
+h4 {
+	font-family: "Playfair Display SC", serif;
+  font-weight: 200;
+  font-style: normal;
+  text-align: center;
+}
