@@ -41,7 +41,7 @@ h4 {
   text-align: center;
 }
 button {
-  font-family: "Playfair Display SC"; serif;
+  font-family: "Playfair Display SC", serif;
   font-size: 30;
 color: red;
 background-color: silver; /
