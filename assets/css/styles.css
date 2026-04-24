@@ -80,20 +80,6 @@ button:hover a {
   width: 65%;
 }
 
-.wrong-page {
-  background-color: #2b0000;
-  color: antiquewhite;
-}
-
-.wrong-page h1 {
-  color: darkred;
-}
-
-.wrong-page h2,
-.wrong-page h3 {
-  color: antiquewhite;
-}
-
 .score {
   color: silver;
   font-size: 24px;
