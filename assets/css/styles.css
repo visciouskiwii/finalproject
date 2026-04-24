@@ -40,3 +40,8 @@ h4 {
   font-style: normal;
   text-align: center;
 }
+button {
+  font-family: "Playfair Display SC"; serif;
+  font-size: 30;
+color: red;
+}
