@@ -44,4 +44,5 @@ button {
   font-family: "Playfair Display SC"; serif;
   font-size: 30;
 color: red;
+background-color: darkred; /
 }
